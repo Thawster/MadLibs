@@ -1,1 +1,11 @@
 The campfire [past-tense verb] and [past-tense verb] in the [adjective] twilight. The [noun]'s voice carried an air of [adjective] as the story unfolded. everyone held their breath as the final chapter of the [adjective] attack of the [noun] was finished.
+print: ("Welcome to madlibs!")
+verb1 = input("Enter a past-tense verb: ")
+verb2 = input("Enter a past-tense verb: ")
+adj1 = input("Enter an adjective ")
+noun1 = input("Enter a noun ")
+adj2 = input("Enter an adjective ")
+adj3 = input("Enter an adjective ")
+noun2 = input("Enter a noun ")
+print: ("The campfire "+ verb1 +" and "+ verb2 +" in the "+ adj1+" twilight. The "+noun1+"'s voice carried an air of "+ adj2 +" as the story unfolded. everyone held their breath as the final chapter of the "+ adj3 +" attack of the "+ noun2 +" was finished.
+")
